@@ -5,7 +5,7 @@ Introduction :
 
 CIFAR-10 using CNNs:
 
-This project aims to predict the labels of the CIFAR-10 datset. This project uses Keras to implement deep learning. Almost all the code is in the form of IPython notebooks.
+This project aims to predict the labels of the CIFAR-10 datset. This project uses Keras to implement deep learning. Almost all the code is in the form of IPython notebooks. Final accuracy - 83.37%.
 
 About Dataset:
 
